@@ -15,4 +15,5 @@
 * Run `ng serve`
 
 ## Running the API
+* Make sure Docker is running (open Docker for Mac)
 * Run `docker-compose up`
