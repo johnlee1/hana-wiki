@@ -9,6 +9,7 @@
 * Install [Docker for Mac](https://www.docker.com/docker-mac) (if you are using a mac)
 * Place environment files in proper location
   * aws.env, aws.env.encrypted, and var.env go in the root directory of hana-api
+  * awsconfig.json go in the src/mail directory
 
 ## Running the UI
 * Run `npm install`
