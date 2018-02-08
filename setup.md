@@ -18,3 +18,11 @@
 ## Running the API
 * Make sure Docker is running (open Docker for Mac)
 * Run `docker-compose up`
+
+* If you're getting errors, try running
+```
+# Delete all containers
+docker rm $(docker ps -a -q)
+# Delete all images
+docker rmi $(docker images -q)
+```
