@@ -5,7 +5,7 @@
 
 ## Installation
 * Clone hana-ui and hana-api repositories
-* Install the [Angular 2 CLI](https://github.com/angular/angular-cli)
+* Install the [Angular CLI](https://github.com/angular/angular-cli)
 * Install [Docker for Mac](https://www.docker.com/docker-mac) (if you are using a mac)
 * Place environment files in proper location
   * aws.env, aws.env.encrypted, and var.env go in the root directory of hana-api
